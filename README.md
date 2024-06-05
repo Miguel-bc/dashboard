@@ -1,4 +1,4 @@
-## Dashboard Sencillo de Ventas
+## Dashboard de Ventas
 
 ¡Bienvenido a este sencillo dashboard de ventas! Este proyecto utiliza una base de datos de ventas obtenida desde [Kaggle](https://www.kaggle.com/datasets/mohammadkaiftahir/superstore-sales-dataset). La aplicación está disponible en este [enlace](https://mblaya.shinyapps.io/dashboard/).
 
