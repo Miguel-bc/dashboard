@@ -22,9 +22,7 @@ Este proyecto es un dashboard interactivo desarrollado utilizando R Shiny. Propo
 
 A continuación, se muestran algunas capturas de pantalla del dashboard:
 
-![Captura de Pantalla 1](screenshot1.png)
-
-![Captura de Pantalla 2](screenshot2.png)
+<img width="953" alt="image" src="https://github.com/Miguel-bc/dashboard/assets/58371119/a7d25ecd-d67e-4166-af3f-bf3c33e60b90">
 
 ### ¿Cómo Usar?
 
@@ -38,6 +36,6 @@ A continuación, se muestran algunas capturas de pantalla del dashboard:
 
 ### Contacto
 
-Puedes encontrarme en [GitHub](https://github.com/tu_usuario) para más proyectos y colaboraciones.
+Puedes encontrarme en [GitHub](https://github.com/Miguel-bc) para más proyectos y colaboraciones.
 
 ¡Gracias por tu interés en mi portfolio!
